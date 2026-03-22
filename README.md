@@ -10,17 +10,15 @@ SXBank is a terminal-based banking system that allows users to create an account
 
 ---
 
-## 🎬 Demo
+## 🎬 View
 
-### Application Demo
-> 📹 *Video demo coming soon*
-<!-- Replace with your demo video link -->
-<!-- [![Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+### Application View
 
-### Tests Demo
-> 📹 *Tests video coming soon*
-<!-- Replace with your tests video link -->
-<!-- [![Tests](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+<img src="ressources/applicationView.png">
+
+### Tests View
+
+<img src="ressources/testView.png">
 
 ---
 
